@@ -52,4 +52,6 @@
   pypy run.py --type ensemble --method nn > nn_log.log
   ```
   
+  
+  kaggle CTR competetion (criteo avazu avito)
   ​
