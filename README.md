@@ -53,5 +53,5 @@
   ```
   
   
-  kaggle CTR competetion (criteo avazu avito)
+  kaggle CTR competetion (criteo avazu avito)!
   ​
